@@ -738,7 +738,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: TAP TO RESTART
+  m_Text: P L E A S E  T R Y  A G A I N
 --- !u!222 &473852977
 CanvasRenderer:
   m_ObjectHideFlags: 0
